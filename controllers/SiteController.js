@@ -9,5 +9,5 @@ class SiteController{
     return ("Do sth Contact")
   }
 
-
 }
+module.exports = SiteCOntroller
