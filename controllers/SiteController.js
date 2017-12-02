@@ -1,13 +1,13 @@
 function SiteController() {}
-  
-  Sitecontroller.prototype.Index = function 
+
+  //Sitecontroller.prototype.Index = function
 
 //   }
 //   About(){
-// 
+//
 //   }
 //   Contact(){
-// 
+//
 //   }
 // }
 //  Index(){
