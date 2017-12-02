@@ -1,4 +1,4 @@
-function SiteController{
+var SiteController{
   Index(){
     return ("Do sth Index")
   }
