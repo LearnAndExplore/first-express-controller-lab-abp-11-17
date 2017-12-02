@@ -1,13 +1,13 @@
-var SiteController{
-  Index(){
-    return ("Do sth Index")
-  }
-  About(){
-    return ("Do sth About")
-  }
-  Contact(){
-    return ("Do sth Contact")
-  }
-
-}
+var SiteController= {Index :'index',About:'about',Contact:'Contact'}
+//   Index(){
+//     return ("Do sth Index")
+//   }
+//   About(){
+//     return ("Do sth About")
+//   }
+//   Contact(){
+//     return ("Do sth Contact")
+//   }
+// 
+// }
 module.exports = SiteController
