@@ -2,7 +2,7 @@ var express = require('express')
 var app = express()
 var SiteController = require('./controllers/SiteController')
 
-app.get('/',SiteController.Index()
+app.get('/',SiteController.Index
     // function(req,resp){
     //     resp.render('index')
 )
