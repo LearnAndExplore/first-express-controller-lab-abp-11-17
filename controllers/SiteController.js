@@ -1,6 +1,8 @@
-function SiteController() {}
+var SiteController = {
+  'Index':function(){return 0}
+}
 
-  //Sitecontroller.prototype.Index = function
+// Sitecontroller.prototype.Index = function
 
 //   }
 //   About(){
