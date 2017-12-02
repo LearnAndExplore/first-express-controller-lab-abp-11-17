@@ -1,6 +1,6 @@
 var express = require('express')
 var app = express()
-var SiteController = require('./SiteController')
+var SiteController = require('./controllers/SiteController')
 
 app.get('/',function(req,resp){
   resp.render('index')
