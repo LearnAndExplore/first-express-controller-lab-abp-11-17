@@ -1,7 +1,7 @@
 var SiteController = {
   'Index':function(req,resp){resp.render('site/index')},
-  'About':function(){return 1},
-  'Contact':function(){return 2}
+  'About':function(req,resp){resp.render('site/about')},
+  'Contact':function(req,resp){resp.render('site/contact')}
 }
 
 // Sitecontroller.prototype.Index = function
