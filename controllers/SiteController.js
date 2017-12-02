@@ -1,5 +1,15 @@
-var SiteController= {Index :'index',About:'about',Contact:'Contact'}
-//   Index(){
+var SiteController= {
+  function Index(){
+    
+  }
+  function About(){
+    
+  }
+  function Contact(){
+    
+  }
+}
+//  Index(){
 //     return ("Do sth Index")
 //   }
 //   About(){
@@ -8,6 +18,6 @@ var SiteController= {Index :'index',About:'about',Contact:'Contact'}
 //   Contact(){
 //     return ("Do sth Contact")
 //   }
-// 
+//
 // }
 module.exports = SiteController
