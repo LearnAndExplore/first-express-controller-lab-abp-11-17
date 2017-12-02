@@ -1,5 +1,5 @@
 var SiteController = {
-  'Index':function(req,resp){resp.render('../site/index')},
+  'Index':function(req,resp){resp.render('../views/index')},
   'About':function(){return 1},
   'Contact':function(){return 2}
 }
