@@ -1,14 +1,15 @@
-function SiteController() {
-  Index(){
-    
-  }
-  About(){
+function SiteController() {}
+  
+  Sitecontroller.prototype.Index = function 
 
-  }
-  Contact(){
-
-  }
-}
+//   }
+//   About(){
+// 
+//   }
+//   Contact(){
+// 
+//   }
+// }
 //  Index(){
 //     return ("Do sth Index")
 //   }
