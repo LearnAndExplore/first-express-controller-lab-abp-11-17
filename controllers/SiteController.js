@@ -1,12 +1,12 @@
-var SiteController= {
-  function Index(){
+function SiteController() {
+  Index(){
     
   }
-  function About(){
-    
+  About(){
+
   }
-  function Contact(){
-    
+  Contact(){
+
   }
 }
 //  Index(){
