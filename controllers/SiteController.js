@@ -10,4 +10,4 @@ class SiteController{
   }
 
 }
-module.exports = SiteCOntroller
+module.exports = SiteController
