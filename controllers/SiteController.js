@@ -8,6 +8,6 @@ class SiteController{
   Contact(){
     return ("Do sth Contact")
   }
-  
-  
+
+
 }
